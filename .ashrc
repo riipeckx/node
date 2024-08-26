@@ -1,0 +1,7 @@
+#!/bin/sh
+# Exports
+export SHELL=/bin/ash
+export PATH="$PATH:/app/node_modules/.bin"
+
+# Aliases
+alias ll='ls -ahl'
