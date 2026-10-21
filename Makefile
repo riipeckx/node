@@ -3,7 +3,7 @@
 # Vars
 REPO := riipeckx
 IMAGE_NAME := node
-TAG := 22-alpine
+TAG := 26-alpine
 FULL_NAME := $(REPO)/$(IMAGE_NAME):$(TAG)
 
 help:
